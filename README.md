@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Davi
 
-> 🚀 **Dev Full-Stack em formação | PUC Minas | JavaScript, Node.js, .NET, SQL**  
+>  **Dev Full-Stack em formação | PUC Minas | JavaScript, Node.js, .NET, SQL**  
 
 **Em constante evolução no mundo do desenvolvimento**
 
@@ -12,16 +12,16 @@ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em de
 
 Atuação em projetos acadêmicos e práticos que fortaleceram minha base em lógica de programação, arquitetura de aplicações e integração entre front-end e back-end, com foco em soluções bem estruturadas e eficientes.
 
-## 🧠 O que eu faço
+## 💻 O que eu faço
 
--   💻 Desenvolvimento de Aplicações Web (Front-end & Back-end)
--   ⚙️ Estruturação de APIs e lógica de negócios
--   🗄️ Modelagem e manipulação de Banco de Dados (SQL)
--   🔄 Integração entre sistemas e consumo de APIs
--   🧩 Arquitetura e organização de código com boas práticas
--   🌐 Interfaces responsivas com HTML, CSS e JavaScript
--   🛠️ Controle de versão e colaboração com Git & GitHub
--   🚀 Construção de projetos full stack com Node.js e .NET com ASP.NET Core
+-    Desenvolvimento de Aplicações Web (Front-end & Back-end)
+-    Estruturação de APIs e lógica de negócios
+-   Modelagem e manipulação de Banco de Dados (SQL)
+-    Integração entre sistemas e consumo de APIs
+-    Arquitetura e organização de código com boas práticas
+-    Interfaces responsivas com HTML, CSS e JavaScript
+-    Controle de versão e colaboração com Git & GitHub
+-    Construção de projetos full stack com Node.js e .NET com ASP.NET Core
 
 ---
 
