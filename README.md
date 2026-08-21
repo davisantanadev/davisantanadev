@@ -37,6 +37,7 @@ Atuação em projetos acadêmicos e práticos que fortaleceram minha base em ló
 ### Backend
 
 ![.NET](https://img.shields.io/badge/.NET-ffffff?style=for-the-badge&logo=dotnet&logoColor=000000)
+![COBOL](https://img.shields.io/badge/COBOL-ffffff.svg?style=for-the-badge&logo=CSS&logoColor=000000)
 ![C#](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=000000)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=000000)
