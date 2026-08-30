@@ -8,7 +8,7 @@ Análise e Desenvolvimento de Sistemas - PUC MINAS | Belo Horizonte, MG
 
 ----
 
-Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em desenvolvimento de software e aplicações full stack. Experiência prática com JavaScript, Node.js, C#/ .NET, SQL, além de HTML, CSS e versionamento com Git e GitHub.
+Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, com foco em desenvolvimento de software e aplicações full stack. Experiência prática com COBOL, DB2, desenvolvimento em ambiente Mainframe, JavaScript, Node.js, C#/ .NET, SQL, além de HTML, CSS e versionamento com Git e GitHub.
 
 Atuação em projetos acadêmicos e práticos que fortaleceram minha base em lógica de programação, arquitetura de aplicações e integração entre front-end e back-end, com foco em soluções bem estruturadas e eficientes.
 
